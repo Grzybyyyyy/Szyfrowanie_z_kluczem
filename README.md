@@ -1,3 +1,3 @@
-# Szyfrowanie_z_kluczem
+# Szyfrowanie z kluczem
 szyfrowanie z kluczem
 jakis opis programy.....
